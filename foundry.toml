@@ -1,0 +1,9 @@
+[profile.default]
+src = 'packages/mycontracts/src'
+
+[doc]
+repository = "https://github.com/fakeuser/fakerepo"
+repository-path = "packages/mycontracts"
+
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
