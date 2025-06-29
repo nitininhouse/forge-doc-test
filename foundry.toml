@@ -2,7 +2,7 @@
 src = 'packages/mycontracts/src'
 
 [doc]
-repository = "https://github.com/fakeuser/fakerepo"
+repository = "https://github.com/nitininhouse/forge-doc-test"
 repository-path = "packages/mycontracts"
 
 
